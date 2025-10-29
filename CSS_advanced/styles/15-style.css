@@ -1,9 +1,5 @@
 @import url('normalize.css');
 
-.box {
-  box-sizing: content-box;
-}
-
 html {
   scroll-behavior: smooth;
   font-size: 62.5%;
